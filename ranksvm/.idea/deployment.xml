@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="prml@163.152.74.72:22" remoteFilesAllowedToDisappearOnAutoupload="false" showEqualInSync="true">
+    <serverData>
+      <paths name="prml@163.152.74.72:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/prml/hs_oh/ranksvm/src" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="prml@163.152.90.154:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
