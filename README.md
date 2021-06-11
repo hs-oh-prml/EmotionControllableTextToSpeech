@@ -33,6 +33,8 @@ python synthesis.py --step 500000
 ## Melspectrogram, f0, energy
 ![](./assets/neu.png)
 
+## Demo page
+[https://hsoh0306.github.io/2021/06/11/cetts-demo/](https://hsoh0306.github.io/2021/06/11/cetts-demo/)
 
 
 # References
